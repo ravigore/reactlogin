@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "https://ravigore.github.io/reactlogin/precache-manifest.b24beba9a00fcfb935f5527ac5df6605.js"
+  "https://ravigore.github.io/reactlogin/precache-manifest.b4880be653b1cd7e8e852cf74f37a7b8.js"
 );
 
 self.addEventListener('message', (event) => {

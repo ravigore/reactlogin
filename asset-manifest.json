@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "https://ravigore.github.io/reactlogin/static/css/main.1f04f539.chunk.css",
-    "main.js": "https://ravigore.github.io/reactlogin/static/js/main.45c223f5.chunk.js",
-    "main.js.map": "https://ravigore.github.io/reactlogin/static/js/main.45c223f5.chunk.js.map",
+    "main.js": "https://ravigore.github.io/reactlogin/static/js/main.ab1b4484.chunk.js",
+    "main.js.map": "https://ravigore.github.io/reactlogin/static/js/main.ab1b4484.chunk.js.map",
     "runtime-main.js": "https://ravigore.github.io/reactlogin/static/js/runtime-main.d5262d96.js",
     "runtime-main.js.map": "https://ravigore.github.io/reactlogin/static/js/runtime-main.d5262d96.js.map",
     "static/css/2.2df08c48.chunk.css": "https://ravigore.github.io/reactlogin/static/css/2.2df08c48.chunk.css",
     "static/js/2.90c1fe75.chunk.js": "https://ravigore.github.io/reactlogin/static/js/2.90c1fe75.chunk.js",
     "static/js/2.90c1fe75.chunk.js.map": "https://ravigore.github.io/reactlogin/static/js/2.90c1fe75.chunk.js.map",
     "index.html": "https://ravigore.github.io/reactlogin/index.html",
-    "precache-manifest.b24beba9a00fcfb935f5527ac5df6605.js": "https://ravigore.github.io/reactlogin/precache-manifest.b24beba9a00fcfb935f5527ac5df6605.js",
+    "precache-manifest.b4880be653b1cd7e8e852cf74f37a7b8.js": "https://ravigore.github.io/reactlogin/precache-manifest.b4880be653b1cd7e8e852cf74f37a7b8.js",
     "service-worker.js": "https://ravigore.github.io/reactlogin/service-worker.js",
     "static/css/2.2df08c48.chunk.css.map": "https://ravigore.github.io/reactlogin/static/css/2.2df08c48.chunk.css.map",
     "static/css/main.1f04f539.chunk.css.map": "https://ravigore.github.io/reactlogin/static/css/main.1f04f539.chunk.css.map",
@@ -21,6 +21,6 @@
     "static/css/2.2df08c48.chunk.css",
     "static/js/2.90c1fe75.chunk.js",
     "static/css/main.1f04f539.chunk.css",
-    "static/js/main.45c223f5.chunk.js"
+    "static/js/main.ab1b4484.chunk.js"
   ]
 }
