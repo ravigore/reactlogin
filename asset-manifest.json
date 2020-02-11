@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/reactlogin/static/css/main.1f04f539.chunk.css",
+    "main.js": "/reactlogin/static/js/main.a8bc8f19.chunk.js",
+    "main.js.map": "/reactlogin/static/js/main.a8bc8f19.chunk.js.map",
+    "runtime-main.js": "/reactlogin/static/js/runtime-main.c80300d3.js",
+    "runtime-main.js.map": "/reactlogin/static/js/runtime-main.c80300d3.js.map",
+    "static/css/2.4eb5950e.chunk.css": "/reactlogin/static/css/2.4eb5950e.chunk.css",
+    "static/js/2.50959792.chunk.js": "/reactlogin/static/js/2.50959792.chunk.js",
+    "static/js/2.50959792.chunk.js.map": "/reactlogin/static/js/2.50959792.chunk.js.map",
+    "index.html": "/reactlogin/index.html",
+    "precache-manifest.a0e97ed4681a233f1dad4e83e21a4735.js": "/reactlogin/precache-manifest.a0e97ed4681a233f1dad4e83e21a4735.js",
+    "service-worker.js": "/reactlogin/service-worker.js",
+    "static/css/2.4eb5950e.chunk.css.map": "/reactlogin/static/css/2.4eb5950e.chunk.css.map",
+    "static/css/main.1f04f539.chunk.css.map": "/reactlogin/static/css/main.1f04f539.chunk.css.map",
+    "static/js/2.50959792.chunk.js.LICENSE.txt": "/reactlogin/static/js/2.50959792.chunk.js.LICENSE.txt",
+    "static/media/font-awesome.min.css": "/reactlogin/static/media/fontawesome-webfont.fee66e71.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c80300d3.js",
+    "static/css/2.4eb5950e.chunk.css",
+    "static/js/2.50959792.chunk.js",
+    "static/css/main.1f04f539.chunk.css",
+    "static/js/main.a8bc8f19.chunk.js"
+  ]
+}
