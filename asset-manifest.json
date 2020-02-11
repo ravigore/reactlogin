@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "https://ravigore.github.io/reactlogin/static/css/main.1f04f539.chunk.css",
-    "main.js": "https://ravigore.github.io/reactlogin/static/js/main.4079143b.chunk.js",
-    "main.js.map": "https://ravigore.github.io/reactlogin/static/js/main.4079143b.chunk.js.map",
-    "runtime-main.js": "https://ravigore.github.io/reactlogin/static/js/runtime-main.d5262d96.js",
-    "runtime-main.js.map": "https://ravigore.github.io/reactlogin/static/js/runtime-main.d5262d96.js.map",
-    "static/css/2.2df08c48.chunk.css": "https://ravigore.github.io/reactlogin/static/css/2.2df08c48.chunk.css",
-    "static/js/2.90c1fe75.chunk.js": "https://ravigore.github.io/reactlogin/static/js/2.90c1fe75.chunk.js",
-    "static/js/2.90c1fe75.chunk.js.map": "https://ravigore.github.io/reactlogin/static/js/2.90c1fe75.chunk.js.map",
-    "index.html": "https://ravigore.github.io/reactlogin/index.html",
-    "precache-manifest.a0b3fde777c5155d585cb7e02aff3cd8.js": "https://ravigore.github.io/reactlogin/precache-manifest.a0b3fde777c5155d585cb7e02aff3cd8.js",
-    "service-worker.js": "https://ravigore.github.io/reactlogin/service-worker.js",
-    "static/css/2.2df08c48.chunk.css.map": "https://ravigore.github.io/reactlogin/static/css/2.2df08c48.chunk.css.map",
-    "static/css/main.1f04f539.chunk.css.map": "https://ravigore.github.io/reactlogin/static/css/main.1f04f539.chunk.css.map",
-    "static/js/2.90c1fe75.chunk.js.LICENSE.txt": "https://ravigore.github.io/reactlogin/static/js/2.90c1fe75.chunk.js.LICENSE.txt",
-    "static/media/font-awesome.min.css": "https://ravigore.github.io/reactlogin/static/media/fontawesome-webfont.fee66e71.woff"
+    "main.css": "/static/css/main.c565f086.chunk.css",
+    "main.js": "/static/js/main.4deb53b1.chunk.js",
+    "main.js.map": "/static/js/main.4deb53b1.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.1ea0e123.js",
+    "runtime-main.js.map": "/static/js/runtime-main.1ea0e123.js.map",
+    "static/css/2.2a4e033a.chunk.css": "/static/css/2.2a4e033a.chunk.css",
+    "static/js/2.50959792.chunk.js": "/static/js/2.50959792.chunk.js",
+    "static/js/2.50959792.chunk.js.map": "/static/js/2.50959792.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.3386e68b057fd43ada10f1e24b3c3540.js": "/precache-manifest.3386e68b057fd43ada10f1e24b3c3540.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.2a4e033a.chunk.css.map": "/static/css/2.2a4e033a.chunk.css.map",
+    "static/css/main.c565f086.chunk.css.map": "/static/css/main.c565f086.chunk.css.map",
+    "static/js/2.50959792.chunk.js.LICENSE.txt": "/static/js/2.50959792.chunk.js.LICENSE.txt",
+    "static/media/font-awesome.min.css": "/static/media/fontawesome-webfont.fee66e71.woff"
   },
   "entrypoints": [
-    "static/js/runtime-main.d5262d96.js",
-    "static/css/2.2df08c48.chunk.css",
-    "static/js/2.90c1fe75.chunk.js",
-    "static/css/main.1f04f539.chunk.css",
-    "static/js/main.4079143b.chunk.js"
+    "static/js/runtime-main.1ea0e123.js",
+    "static/css/2.2a4e033a.chunk.css",
+    "static/js/2.50959792.chunk.js",
+    "static/css/main.c565f086.chunk.css",
+    "static/js/main.4deb53b1.chunk.js"
   ]
 }
