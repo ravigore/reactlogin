@@ -5,7 +5,6 @@ export const formValid = (data) => {
     for (const [key, value] of Object.entries(data.inputData)) {
       i++;
       var checkResult = LoginValidate(key,value,data.validCheck)
-      console.log({...checkResult})
       if({...checkResult}[key].length > 0){
         valid = false
       }

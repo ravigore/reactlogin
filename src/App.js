@@ -6,7 +6,7 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 import Login from './components/Login'
 import HomePage from './components/HomePage'
 import MainRouting from './components/MainRouting'
-import { history } from './helpers/history';
+import { history } from './helpers/History';
 import { Router, Route , Switch} from 'react-router-dom';
 
 export default class App extends Component {

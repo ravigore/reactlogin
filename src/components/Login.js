@@ -1,11 +1,9 @@
 import React, {Component} from 'react'
-import { formValid ,LoginValidate} from '../helpers/validation';
-import { history } from '../helpers/history';
+import { formValid ,LoginValidate} from '../helpers/Validation';
+import { history } from '../helpers/History';
 
 export default class Login extends Component {
-  constructor(props) {
-   super(props);
-   this.state =  {
+   state =  {
     inputData:{
     username: '',
     password: ''
@@ -14,15 +12,13 @@ export default class Login extends Component {
       username: '',
       password: ''
     }
-  }
 }
-  
   valueChanged = (e)=> {
    const {name, value} = e.target;
    let validCheck = LoginValidate(name,value,{ ...this.state.validCheck })
    let inputData = {...this.state.inputData};
    inputData[name] = value
-   this.setState({inputData,validCheck}, () => console.log(this.state));
+   this.setState({inputData,validCheck});
   }
 
   handleSubmit = (e)=> {
@@ -30,7 +26,7 @@ export default class Login extends Component {
     var result = formValid(this.state)
     let inputData = {...this.state.inputData};
     var validCheck = result[1]
-    this.setState({inputData,validCheck}, () => console.log(this.state));
+    this.setState({inputData,validCheck});
     if (result[0]) {
       alert("Login Success")
       localStorage.setItem("username","Ravindra");
