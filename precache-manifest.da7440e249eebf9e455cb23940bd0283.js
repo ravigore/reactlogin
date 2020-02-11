@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "defb77e91bd520540048f7894485f344",
+    "revision": "6a8166897a8d074385f8477e51755d15",
     "url": "https://ravigore.github.io/reactlogin/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "https://ravigore.github.io/reactlogin/static/css/2.2df08c48.chunk.css"
   },
   {
-    "revision": "b757bdb298e460908105",
+    "revision": "7862f6bcc88d516d8b3d",
     "url": "https://ravigore.github.io/reactlogin/static/css/main.1f04f539.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "https://ravigore.github.io/reactlogin/static/js/2.90c1fe75.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "b757bdb298e460908105",
-    "url": "https://ravigore.github.io/reactlogin/static/js/main.af3473f9.chunk.js"
+    "revision": "7862f6bcc88d516d8b3d",
+    "url": "https://ravigore.github.io/reactlogin/static/js/main.85f52299.chunk.js"
   },
   {
     "revision": "b62c93fc31da606ef91d",
