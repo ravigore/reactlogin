@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "414e79dda8461596dbed9c4a2cda4a94",
+    "revision": "cb3e47b968fc80366640f79444156aef",
     "url": "https://ravigore.github.io/reactlogin/index.html"
   },
   {
-    "revision": "07fa09babc43c7727b0e",
-    "url": "https://ravigore.github.io/reactlogin/static/css/2.e75604a3.chunk.css"
+    "revision": "4bbecd138d75828e0e2a",
+    "url": "https://ravigore.github.io/reactlogin/static/css/2.2df08c48.chunk.css"
   },
   {
-    "revision": "5ed74ec8b06cc8ca3738",
+    "revision": "40d156c1ce771c8c06c6",
     "url": "https://ravigore.github.io/reactlogin/static/css/main.1f04f539.chunk.css"
   },
   {
-    "revision": "07fa09babc43c7727b0e",
-    "url": "https://ravigore.github.io/reactlogin/static/js/2.6ccb4420.chunk.js"
+    "revision": "4bbecd138d75828e0e2a",
+    "url": "https://ravigore.github.io/reactlogin/static/js/2.90c1fe75.chunk.js"
   },
   {
     "revision": "928d7b5eb39d16fe9a880722c974b51e",
-    "url": "https://ravigore.github.io/reactlogin/static/js/2.6ccb4420.chunk.js.LICENSE.txt"
+    "url": "https://ravigore.github.io/reactlogin/static/js/2.90c1fe75.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "5ed74ec8b06cc8ca3738",
-    "url": "https://ravigore.github.io/reactlogin/static/js/main.a88e34e6.chunk.js"
+    "revision": "40d156c1ce771c8c06c6",
+    "url": "https://ravigore.github.io/reactlogin/static/js/main.f270b3d0.chunk.js"
   },
   {
     "revision": "b62c93fc31da606ef91d",
