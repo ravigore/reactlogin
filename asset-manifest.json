@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "https://ravigore.github.io/reactlogin/static/css/main.c565f086.chunk.css",
-    "main.js": "https://ravigore.github.io/reactlogin/static/js/main.53cef414.chunk.js",
-    "main.js.map": "https://ravigore.github.io/reactlogin/static/js/main.53cef414.chunk.js.map",
-    "runtime-main.js": "https://ravigore.github.io/reactlogin/static/js/runtime-main.d5262d96.js",
-    "runtime-main.js.map": "https://ravigore.github.io/reactlogin/static/js/runtime-main.d5262d96.js.map",
-    "static/css/2.2df08c48.chunk.css": "https://ravigore.github.io/reactlogin/static/css/2.2df08c48.chunk.css",
-    "static/js/2.b063c052.chunk.js": "https://ravigore.github.io/reactlogin/static/js/2.b063c052.chunk.js",
-    "static/js/2.b063c052.chunk.js.map": "https://ravigore.github.io/reactlogin/static/js/2.b063c052.chunk.js.map",
-    "index.html": "https://ravigore.github.io/reactlogin/index.html",
-    "precache-manifest.4a1db099536a92e084947fe500d7562c.js": "https://ravigore.github.io/reactlogin/precache-manifest.4a1db099536a92e084947fe500d7562c.js",
-    "service-worker.js": "https://ravigore.github.io/reactlogin/service-worker.js",
-    "static/css/2.2df08c48.chunk.css.map": "https://ravigore.github.io/reactlogin/static/css/2.2df08c48.chunk.css.map",
-    "static/css/main.c565f086.chunk.css.map": "https://ravigore.github.io/reactlogin/static/css/main.c565f086.chunk.css.map",
-    "static/js/2.b063c052.chunk.js.LICENSE.txt": "https://ravigore.github.io/reactlogin/static/js/2.b063c052.chunk.js.LICENSE.txt",
-    "static/media/font-awesome.min.css": "https://ravigore.github.io/reactlogin/static/media/fontawesome-webfont.fee66e71.woff"
+    "main.css": "/reactlogin/static/css/main.c565f086.chunk.css",
+    "main.js": "/reactlogin/static/js/main.c53c9b2b.chunk.js",
+    "main.js.map": "/reactlogin/static/js/main.c53c9b2b.chunk.js.map",
+    "runtime-main.js": "/reactlogin/static/js/runtime-main.c80300d3.js",
+    "runtime-main.js.map": "/reactlogin/static/js/runtime-main.c80300d3.js.map",
+    "static/css/2.4fb3025a.chunk.css": "/reactlogin/static/css/2.4fb3025a.chunk.css",
+    "static/js/2.b063c052.chunk.js": "/reactlogin/static/js/2.b063c052.chunk.js",
+    "static/js/2.b063c052.chunk.js.map": "/reactlogin/static/js/2.b063c052.chunk.js.map",
+    "index.html": "/reactlogin/index.html",
+    "precache-manifest.1cb19ea4499144d8700917f7f1aaa31f.js": "/reactlogin/precache-manifest.1cb19ea4499144d8700917f7f1aaa31f.js",
+    "service-worker.js": "/reactlogin/service-worker.js",
+    "static/css/2.4fb3025a.chunk.css.map": "/reactlogin/static/css/2.4fb3025a.chunk.css.map",
+    "static/css/main.c565f086.chunk.css.map": "/reactlogin/static/css/main.c565f086.chunk.css.map",
+    "static/js/2.b063c052.chunk.js.LICENSE.txt": "/reactlogin/static/js/2.b063c052.chunk.js.LICENSE.txt",
+    "static/media/font-awesome.min.css": "/reactlogin/static/media/fontawesome-webfont.fee66e71.woff"
   },
   "entrypoints": [
-    "static/js/runtime-main.d5262d96.js",
-    "static/css/2.2df08c48.chunk.css",
+    "static/js/runtime-main.c80300d3.js",
+    "static/css/2.4fb3025a.chunk.css",
     "static/js/2.b063c052.chunk.js",
     "static/css/main.c565f086.chunk.css",
-    "static/js/main.53cef414.chunk.js"
+    "static/js/main.c53c9b2b.chunk.js"
   ]
 }
